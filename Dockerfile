@@ -1,4 +1,4 @@
-FROM golang:1.4.2
+FROM golang:1.6.2
 MAINTAINER Ilya Stepanov <dev@ilyastepanov.com>
 MAINTAINER Chris Gibson <git@twoitguys.com>
 
