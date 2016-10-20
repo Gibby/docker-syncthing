@@ -1,5 +1,7 @@
 gibby/syncthing
 ===================
+[![](https://images.microbadger.com/badges/image/gibby/syncthing.svg)](https://microbadger.com/images/gibby/syncthing "Get your own image badge on microbadger.com")
+
 
 [Syncthing](http://syncthing.net/) Docker image
 

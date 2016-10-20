@@ -2,7 +2,7 @@ FROM golang:1.6.2
 MAINTAINER Ilya Stepanov <dev@ilyastepanov.com>
 MAINTAINER Chris Gibson <git@twoitguys.com>
 
-ENV VERSION v0.14.8
+ENV VERSION v0.14.9
 
 ENV DEBIAN_FRONTEND noninteractive
 
